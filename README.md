@@ -1,7 +1,7 @@
 <h1>Mental Health Education Website</h1>
 
 <h2>Description</h2>
-This website is designed to educate users, including the Pope, about mental health conditions, their symptoms, and treatments in an interactive and engaging way. The site features an online memory game that helps users learn about different mental health topics while having fun. Additionally, the website includes a leaderboard to track user progress and encourage friendly competition. A chatbot powered by the Gemini API is also integrated to provide users with personalized information and support, making mental health education more accessible and interactive. <br />
+This website is designed to educate users about mental health conditions, their symptoms, and treatments in an interactive and engaging way. The site features an online memory game that helps users learn about different mental health topics while having fun. Additionally, the website includes a leaderboard to track user progress and encourage friendly competition. A chatbot powered by the Gemini API is also integrated to provide users with personalized information and support, making mental health education more accessible and interactive. <br />
 
 <h3>Key Features:</h3>
 Memory Game: An interactive game that educates users about mental health conditions, symptoms, and treatments.
