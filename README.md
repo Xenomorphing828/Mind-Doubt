@@ -21,7 +21,7 @@ Chatbot: A conversational AI powered by the Gemini API to provide users with inf
 
 <h2>Explaination of Website </h2>
 
-- <b>[Mind Doubt](https://)</b> 
+- <b>[Mind Doubt](https://youtu.be/MlUeE_jjeYs)</b> 
 
 <h2>Program walk-through:</h2>
 
